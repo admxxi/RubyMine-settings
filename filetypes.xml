@@ -4,6 +4,7 @@
       <mapping pattern=".env-sample" type=".env file" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
