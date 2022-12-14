@@ -158,6 +158,8 @@
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="Jdbc.RunSqlScript" />
   <action id="Macro.Reformat Prettier &amp; Save">
     <keyboard-shortcut first-keystroke="shift meta s" />
@@ -208,6 +210,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
@@ -281,6 +284,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+  <action id="rspec.LetIntroduce" />
   <action id="tasks.switch">
     <keyboard-shortcut first-keystroke="shift alt t" />
     <keyboard-shortcut first-keystroke="alt t" />
