@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".env*" type=".env file" />
-      <mapping pattern=".env" type=".env file" />
       <mapping ext="env" type="Env File" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
