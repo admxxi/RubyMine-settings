@@ -4,8 +4,8 @@
       <CommitMessageValidationConfig>
         <option name="regexConfig">
           <RegexConfig>
-            <option name="expression" value="\[[A-Z]{2}-\d+\] (fix|chore|docs|feat|refactor|style|test)(?:\(.*\))?: [A-Z].*\s#\d+" />
-            <option name="testInput" value="[AT-929] fix: Bug #123" />
+            <option name="expression" value="\[[A-Z]{2}-\d+\] (fix|chore|docs|feat|refactor|style|test)(?:\(.*\))?: [a-zA-Z].*" />
+            <option name="testInput" value="[AT-929] fix: asdas dsad asdasdsa" />
           </RegexConfig>
         </option>
       </CommitMessageValidationConfig>
