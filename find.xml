@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="AT-971 Can't add an attendee as a participant to an activation event" />
-    <option name="defaultScopeName" value="AT-971 Can't add an attendee as a participant to an activation event" />
-    <option name="SEARCH_SCOPE" value="AT-971 Can't add an attendee as a participant to an activation event" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
